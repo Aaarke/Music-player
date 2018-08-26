@@ -42,6 +42,7 @@
     <color name="light_black">#a9a9a9</color>
     <color name="side_menu_horizontal_view">#e5e5e5</color>
     <color name="add_task_header_border">#1e000000</color>
+    <color name="seekbar_color">#d81b60</color>
 
     <!-- splash screen-->
     <color name="splash_text_color">#1d1d21</color>

@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        tools:text="@string/app_name"
+        android:text="@string/gopi_music_player"
         android:textSize="@dimen/font_xxlarge"
         android:textColor="@color/spotify_green"
         />
